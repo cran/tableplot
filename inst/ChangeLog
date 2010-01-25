@@ -1,0 +1,37 @@
+Version 0.1 (2010-01-14)
+
+o Initial package version
+o Added Linehan data and examples
+o Added cg.cf and id.cf as aliases for congruence.coef and identity.cf
+
+Version 0.2 (2010-01-15)
+
+o Fixed up documentation somewhat
+o Fixed length bug in make.specs
+o Re-wrote make.specs, using formals(cellgram)
+
+Version 0.3 (2010-01-17)
+o Added NEO data and examples
+o Cleaned up code in tableplot.default, using do.call for cellgram.
+o Initial upload to R-Forge
+
+Version 0.3-1 (2010-01-19)
+o Added demo/psych9.R
+o Modified defaults for top.space, left.space in tableplot
+o Added tableplot.colldiag (no example)
+o Added example(tableplot.colldiag)
+
+Version 0.3-2 (2010-01-22)
+o Added LazyData="yes", so data() not required; Suggests: abind
+o Fixed small bug in transpose()
+o Added NEO array, combining NEO.n and NEO.s
+o Added congruence.array
+
+Version 0.3-3 (2010-01-25)
+o Replaced Depends: lattice with Suggests: lattice
+o Added demo/psych9-corr.R
+
+
+
+
+
