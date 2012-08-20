@@ -1,4 +1,4 @@
-b8d35ae7d0f92cada0d0a8b7efa5f012 *DESCRIPTION
+ff6d62d818b5b66896c2efa9766ca66d *DESCRIPTION
 a81347dc8b0df1c70922783b9ae69396 *NAMESPACE
 0cc79dea00dbb954576d5f8f57fed710 *NEWS
 bad9e67e7c48b3eaadaaa47f71cfe0c9 *R/cellgram.R
@@ -8,10 +8,10 @@ bad9e67e7c48b3eaadaaa47f71cfe0c9 *R/cellgram.R
 da596616a6cff07dfddd825b455b41e2 *R/tableplot.R
 251b9411df7570808690f01d88312208 *R/tableplot.colldiag.R
 d238ee9e181e14dc7dc945b305dcee43 *R/utility.R
-214e91c2249d960758075de02149f835 *data/Linehan.RData
-3d741e358bf37dab135f83d716909152 *data/NEO.RData
-40702365265fbc425ec5e31a58707f61 *data/NEO.n.RData
-63d59494996d41303bb8e7262b20b288 *data/NEO.s.RData
+586db247e96b9cbca7756839af86f880 *data/Linehan.RData
+5fd839debe0b936769cbce3106b33c85 *data/NEO.RData
+89079d47c91a374f48afbfee6ca26315 *data/NEO.n.RData
+aa50df69f6b9bacbb475aecef7a9e3ea *data/NEO.s.RData
 cbbd92cc69bd7297d62cc2648e5e67ef *demo/00Index
 6c73ca375b99529994581da50181c92a *demo/Lu-etal2009.R
 6753adcab6021b661ae6aaa3a2b4639e *demo/psych9-corr.R
@@ -24,7 +24,7 @@ eb2885fc4842971781fe3585950754b1 *man/compare.Rd
 486ff4ce4b276f5123d87a0e93dce965 *man/congruence.array.Rd
 48954706e5150c1c01fbfa0fa9cdabff *man/make.specs.Rd
 805f804b8c2a9c5c37366925737ba1eb *man/make.specs0.Rd
-1c50319198bfd5560e0016bcc4bf37a1 *man/tableplot-package.Rd
+59316410ebe6d3d11697e7e15900b363 *man/tableplot-package.Rd
 853f76aca2f2d2621f9cca000bda2c30 *man/tableplot.Rd
 c4f260579149670cb2ca74dad616ef5e *man/tableplot.colldiag.Rd
 ed0d5a2d822ee5134ca5819358a7116c *man/utility.Rd
